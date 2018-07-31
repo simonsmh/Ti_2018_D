@@ -1,0 +1,6 @@
+.*project
+.settings
+.launches
+Debug
+Release
+targetConfigs
